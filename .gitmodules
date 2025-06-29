@@ -2,6 +2,6 @@
 	path = arb-hook
 	url = https://github.com/itskillian/hookathon-hooks
 
- [submodule "backtesting"]
-         path = backtesting
-         url = https://github.com/fm0909/backtesting-LPHub.git
+[submodule "backtesting"]
+	path = backtesting
+	url = https://github.com/fm0909/backtesting-LPHub
